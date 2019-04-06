@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Hackaton2019_Tienda</string>
+
+    <!-- PEDIDOS ONLINE -->
+    <string name="requestMessageError0">Error al hacer la peticion a los servicios: </string>
+    <string name="requestMessageError1">Error en la respuesta de los servicios: STATUS CODE - </string>
+    <string name="requestMessageError2">Error el cuerpo de la respuesta es nulo.</string>
 </resources>
